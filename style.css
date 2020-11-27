@@ -1,0 +1,38 @@
+.container{
+text-align: center;
+padding: 44px;
+display: inline-block;
+background-color: palevioletred;
+border-radius: 59px;
+margin-bottom: 13px;
+position: absolute;
+left: 249px;
+top: 79px;
+}
+}
+table{
+  margin: auto;
+}
+button{
+  font-size: 27px;
+height: 72px;
+width: 67px;
+color: darkorchid;
+border-radius: 12px;
+}
+button:hover{
+  background-color:red ;
+}
+input{
+  width: 277px;
+  height: 45px;
+  font-size: 30px;
+  border-block-end-color: cornflowerblue;
+  border-radius: 13px;
+  margin-bottom: 10px;
+}
+label{
+font-size: larger;
+position: absolute;
+left: 284px;
+}
